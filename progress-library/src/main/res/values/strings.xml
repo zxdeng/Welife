@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="progressActivityErrorButton">Try Again</string>
+
+    <string name="progressActivityEmptyTitlePlaceholder">暂时没有内容哦</string>
+    <string name="progressActivityEmptyContentPlaceholder">我们将会尽快处理这个问题</string>
+    <string name="progressActivityErrorTitlePlaceholder">No Connection</string>
+    <string name="progressActivityErrorContentPlaceholder">We could not establish a connection with our servers. Please try again when you are connected to the internet.</string>
+</resources>
